@@ -7,6 +7,7 @@
 2. Regular.py: Summary examples of regular expressions in python
 3. Regex.py: Regular expression example which is find all the numbers in a text file and return the total sum. This program used regex.txt file. 
 4. Socket.py: Python socket connection to py4e website to get the txt data. 
+5. bs4.py: Examples from beautiful soup library
 
 
 # Problems
