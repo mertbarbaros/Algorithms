@@ -12,4 +12,5 @@
 
 # Problems
 1. Cookie Assignment Problem: Basic assignment problem with cookie analogy
+2. Parsing XML and Summing All The Count Elements: In this problem, we will extract the data and parse it then sum all the count elements (sumxmlparsing.py)
 
