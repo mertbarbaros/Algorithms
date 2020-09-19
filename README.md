@@ -8,6 +8,11 @@
 3. Regex.py: Regular expression example which is find all the numbers in a text file and return the total sum. This program used regex.txt file. 
 4. Socket.py: Python socket connection to py4e website to get the txt data. 
 5. bs4.py: Examples from beautiful soup library
+6. twitterhidden.py: Holds the twitter API Keys
+7. twurl.py: Twitter web scraper with authentication
+8. twitterapi.py: Extract the tweets of the user
+9. tweetspyder.py: Reads the tweets
+
 
 
 # Problems
